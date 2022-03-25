@@ -1,0 +1,35 @@
+.btn-group button{
+    background-color: #454545;
+    color: white;
+    border: 1px #454545;
+    padding: 7px 18px;
+}
+
+.navigation-wrapper > .right-column i {
+    color: #08f26e;   
+}
+
+.buttons {
+    display: flex;
+}
+
+.sign-up button{
+    background-color: #08f26e;
+    color: #0e1111;
+    font-size: 1.25em;
+    padding: 10px 25px;
+}
+
+.learn-more button{
+    background-color: #0e1111;
+    color: white;
+    font-size: 1.25em;
+    padding: 10px 25px;
+}
+
+.footer button {
+    background-color:#454545 ;
+    color: white;
+    font-size: 1.75em;
+    font-family: 'Montserrat', sans-serif;
+}
